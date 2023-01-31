@@ -8,4 +8,8 @@ A few of my specialities are:
 
 I'm also a game developer in my spare time, (and anything else I think of! check out my repositories page 😉), and love figuring out how to build new things.
 
-See https://cat.bio/ for my full profile 
+I have a github organization I use to (somewhat unsuccessfully) stop my repositories list from getting out of control: https://github.com/catchouli-old
+
+See https://cat.bio/ for my full profile 👍
+
+![Catchouli's github stats](https://github-readme-stats.vercel.app/api?username=catchouli&show_icons=true&theme=transparent)
