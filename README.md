@@ -1,5 +1,5 @@
 ### Hi there 👋
-My name is Caitlin and I'm a senior engineer from the UK.
+My name is Caitlin and I'm a lead engineer from the UK.
 
 A few of my specialities are:
 * Rust, C++, C#, Haskell (but I'm known for being able to use just about any language :P)
