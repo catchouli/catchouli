@@ -1,10 +1,11 @@
 ### Hi there 👋
-My name is Caitlin and I'm a lead engineer from the UK.
+My name is Caitlin and I'm a lead developer from the UK.
 
 A few of my specialities are:
-* Rust, C++, C#, Haskell (but I'm known for being able to use just about any language :P)
+* Rust, C++, C#, Python, Haskell (but I'm known for being able to use just about any language :P)
 * High performance applications such as 3d graphics, GIS and data processing
-* Docker and microservices architectures
+* Cloud and microservices architectures with Kubernetes, Docker and Azure
+* Building software with AI, building AI tooling and MCP servers, and lately experimenting with training my own models
 
 I'm also a game developer in my spare time, (and anything else I think of! check out my repositories page 😉), and love figuring out how to build new things.
 
