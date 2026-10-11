@@ -4,6 +4,7 @@ My name is Caitlin and I'm a lead developer from the UK.
 A few of my specialities are:
 * Rust, C++, C#, Python, Haskell (but I'm known for being able to use just about any language :P)
 * High performance applications such as 3d graphics, GIS and data processing
+* Building end-to-end software and features that *actually works* and solves problems
 * Cloud and microservices architectures with Kubernetes, Docker and Azure
 * Building software with AI, building AI tooling and MCP servers, and lately experimenting with training my own models
 
