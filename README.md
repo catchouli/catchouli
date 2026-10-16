@@ -16,10 +16,6 @@ Some things I've made that I'm fond of:
 * [VolumeRender](https://github.com/catchouli/VolumeRender): a sparse voxel octree ray tracer in CUDA that handles refraction through heterogeneous volumes (my dissertation)
 * [better_tactics](https://github.com/catchouli/better_tactics): a chess tactics trainer with spaced repetition
 
-I'm also a game developer in my spare time (and anything else I think of! check out my repositories page 😉), and love figuring out how to build new things.
-
-I have a github organization I use to (somewhat unsuccessfully) stop my repositories list from getting out of control: https://github.com/catchouli-old
-
 See https://cat.bio/ for my full profile 👍
 
 ![Catchouli's github stats](https://github-readme-stats.vercel.app/api?username=catchouli&show_icons=true&theme=transparent)
