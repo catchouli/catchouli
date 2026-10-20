@@ -15,6 +15,9 @@ Some things I've made that I'm fond of:
 * [CatApp](https://github.com/catchouli/CatApp): the organiser I use to keep my life and projects on track, with AI agents posting updates over MCP and an assistant you can talk to
 * [VolumeRender](https://github.com/catchouli/VolumeRender): a sparse voxel octree ray tracer in CUDA that handles refraction through heterogeneous volumes (my dissertation)
 * [better_tactics](https://github.com/catchouli/better_tactics): a chess tactics trainer with spaced repetition
+* [dreamfield](https://github.com/catchouli/dreamfield): a PS1-style first-person RPG in Rust, with its own engine written by hand before AI tools. I spent a long time researching how the PlayStation actually drew things and reproducing it faithfully: vertices snapping to the pixel grid, affine texture warping, the PS1 GPU's own dither matrix, and a composite video pass that bleeds colour like an old CRT
+
+And from further back, [coment](https://github.com/catchouli/coment): a header-only C++ entity-component-system library that picked up 54 stars.
 
 See https://cat.bio/ for my full profile 👍
 
