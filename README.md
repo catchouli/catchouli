@@ -13,6 +13,7 @@ I've been into neural nets since well before transformers: [neuron](https://gith
 
 Some things I've made that I'm fond of:
 * [CatApp](https://github.com/catchouli/CatApp): the organiser I use to keep my life and projects on track, with AI agents posting updates over MCP and an assistant you can talk to
+* [Stellar Swing](https://store.steampowered.com/app/1319990/Stellar_Swing/): a swingy space game we made at our university game studio [Pillowdrift](https://pillowdrift.com/). In 2026 I ported it to Unity 6, added Steam integration and released it on Steam ([source](https://github.com/Pillowdrift/StellarSwing))
 * [VolumeRender](https://github.com/catchouli/VolumeRender): a sparse voxel octree ray tracer in CUDA that handles refraction through heterogeneous volumes (my dissertation)
 * [better_tactics](https://github.com/catchouli/better_tactics): a chess tactics trainer with spaced repetition
 * [instructive-chess](https://github.com/catchouli/instructive-chess): R&D in turning narrated chess videos into data an AI can learn from. Computer vision reads every game, clock and rating off YouTube, a benchmark checks each one against the real game, and the masters' commentary is kept timed to their moves. It's a searchable database of instructive games for now, and next up is an AI opening and position instructor built on it
