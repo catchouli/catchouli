@@ -22,5 +22,3 @@ Some things I've made that I'm fond of:
 And from further back, [coment](https://github.com/catchouli/coment): a header-only C++ entity-component-system library that picked up 54 stars.
 
 See https://cat.bio/ for my full profile 👍
-
-![Catchouli's github stats](https://github-readme-stats.vercel.app/api?username=catchouli&show_icons=true&theme=transparent)
