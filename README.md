@@ -3,6 +3,7 @@ My name is Cat and I'm a lead developer from the UK.
 
 A few of my specialities are:
 * Rust, C++, C#, Python, Haskell (but I'm known for being able to use just about any language :P)
+* Virtual reality, which I've worked in for most of my career: industrial VR and 3D visualisation of CAD data for engineering and training, from VR hardware integration to the renderer
 * High performance applications such as 3d graphics, GIS and data processing
 * GPU programming, from CUDA ray tracing to real-time renderers
 * Building end-to-end software and features that *actually work* and solve problems
